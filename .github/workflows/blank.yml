@@ -1,0 +1,124 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CI
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v4
+
+      # Runs a single command using the runners shell
+      - name: Run a one-line script
+        run: echo Hello, world!
+
+      # Runs a set of commands using the runners shell
+      - name: Run a multi-line script
+        run: |
+          echo Add other actions to build,
+          echo test, and deploy your project.
+FREE-PGOX
+Code
+PROXY PROXY PROXY
+SSL
+PROXY
+ANONYMOUS PROXY
+SOCKS PROXY
+UPDATE
+UTILITY
+EXIT UTILITY
+24: 51681
+202・242・210.93：03281
+49:8080
+21:80
+20:80
+232.72. 23:80
+186: 9300
+63. 16:3128
+197. 194: 32769
+176:80
+50: 8080
+134:80
+Mexico
+07140150
+ThaiLand
+South Africa
+Hong
+Kong
+Iran Iran Iran
+United States
+United
+Kingdom
+Canada
+United States
+Brazil
+United States
+Nether Lands
+3128
+3080
+Brazil
+Canada
+Indone to
+：8000
+Australia Inde:
+3010
+8080
+United Kingdom
+United
+States
+Ukraine
+53281
+78: 8080
+Indonesta Indonesta
+Brazil
+Kazakhstan
+United
+states
+76: 23500
+76: 36415
+IndLa
+Bangladesh
+9: 60358
+Russian Federation
+elite proxy elite
+proxy anonymous anonymous anonymous
+anonymous elite
+proxy anonymous elite
+proxy
+•Lite proxy elite proxy anonymous
+elite proxite proxy
+anonymous anonynous
+eLite proxy
+proxy
+anonymous
+•lite proxy
+anonymous
+eLtte
+elite
+proxy
+elite
+proxy proxy
+anonymous
+eLtte
+proxy
+elite proxy anonymous
+anonymous
+elite proxy
+Lite proxy
